@@ -1,0 +1,1 @@
+from .stargame import *
